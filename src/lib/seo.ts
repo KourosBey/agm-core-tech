@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { defaultLocale, locales, type AppLocale } from "@/lib/locales";
 
+export const FAVICON_PATH = "/favicon.png";
+
 export const SITE_NAME = "AGM Core Tech";
 export const SITE_EMAIL = "info@agmcoretech.com";
 
@@ -120,6 +122,11 @@ export function buildRootMetadata(
     applicationName: SITE_NAME,
     creator: SITE_NAME,
     publisher: SITE_NAME,
+    icons: {
+      icon: [{ url: FAVICON_PATH, type: "image/png" }],
+      shortcut: [{ url: FAVICON_PATH, type: "image/png" }],
+      apple: [{ url: FAVICON_PATH, type: "image/png" }],
+    },
     formatDetection: {
       email: false,
       address: false,
@@ -135,7 +142,7 @@ export function getOrganizationSchema() {
     name: SITE_NAME,
     url: SITE_URL,
     email: SITE_EMAIL,
-    logo: `${SITE_URL}/brand/agm-logo.png`,
+    logo: `${SITE_URL}${FAVICON_PATH}`,
     address: {
       "@type": "PostalAddress",
       addressLocality: "Istanbul",

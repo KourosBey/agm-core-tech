@@ -2,10 +2,9 @@
 
 import { useState, useEffect } from "react";
 import { useTranslations } from "next-intl";
-import { Menu, X } from "lucide-react";
+import { Menu, X, Home } from "lucide-react";
 import { Link, usePathname } from "@/i18n/navigation";
 import { LocaleSwitcher } from "@/components/layout/locale-switcher";
-import { BrandLogo } from "@/components/layout/brand-logo";
 import { cn } from "@/lib/utils";
 
 const navItems = [
@@ -99,7 +98,13 @@ export function Navbar() {
               : "border-border/50 bg-background/70 backdrop-blur-sm"
           )}
         >
-          <BrandLogo priority />
+          <Link
+            href="/"
+            className="inline-flex shrink-0 items-center justify-center rounded-sm p-1 text-muted-foreground transition-colors hover:text-brand-accent"
+            aria-label={t("home")}
+          >
+            <Home className="h-5 w-5" strokeWidth={1.75} />
+          </Link>
 
           <nav
             className="hidden lg:flex items-center gap-6 xl:gap-8"
