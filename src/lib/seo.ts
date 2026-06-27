@@ -135,7 +135,7 @@ export function getOrganizationSchema() {
     name: SITE_NAME,
     url: SITE_URL,
     email: SITE_EMAIL,
-    logo: `${SITE_URL}/icon`,
+    logo: `${SITE_URL}/brand/agm-logo.png`,
     address: {
       "@type": "PostalAddress",
       addressLocality: "Istanbul",

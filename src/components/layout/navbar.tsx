@@ -5,6 +5,7 @@ import { useTranslations } from "next-intl";
 import { Menu, X } from "lucide-react";
 import { Link, usePathname } from "@/i18n/navigation";
 import { LocaleSwitcher } from "@/components/layout/locale-switcher";
+import { BrandLogo } from "@/components/layout/brand-logo";
 import { cn } from "@/lib/utils";
 
 const navItems = [
@@ -98,12 +99,7 @@ export function Navbar() {
               : "border-border/50 bg-background/70 backdrop-blur-sm"
           )}
         >
-          <Link
-            href="/"
-            className="shrink-0 font-heading text-base font-normal tracking-tight sm:text-lg"
-          >
-            AGM
-          </Link>
+          <BrandLogo priority />
 
           <nav
             className="hidden lg:flex items-center gap-6 xl:gap-8"

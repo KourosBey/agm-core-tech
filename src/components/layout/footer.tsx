@@ -3,6 +3,7 @@
 import { useTranslations } from "next-intl";
 import { Mail, MapPin, Clock } from "lucide-react";
 import { Link, usePathname } from "@/i18n/navigation";
+import { BrandLogo } from "@/components/layout/brand-logo";
 
 export function Footer() {
   const t = useTranslations("footer");
@@ -83,12 +84,7 @@ export function Footer() {
         </div>
 
         <div className="mt-16 flex w-full max-w-lg flex-col items-center gap-4 border-t border-border/60 pt-8 text-center">
-          <Link
-            href="/"
-            className="font-heading text-lg font-normal text-muted-foreground transition-colors hover:text-foreground"
-          >
-            AGM Core Tech
-          </Link>
+          <BrandLogo linked={false} imageClassName="h-11 sm:h-12" />
           <p className="font-ui text-xs text-muted-foreground">
             © {year} AGM Core Tech. {t("rights")}
           </p>
