@@ -1,0 +1,808 @@
+{
+  "metadata": {
+    "title": "AGM Core Tech — Enterprise Software Engineering",
+    "description": "AGM Core Tech architects scalable software systems, business platforms, and integration infrastructure for enterprise teams."
+  },
+  "nav": {
+    "home": "Home",
+    "main": "Main navigation",
+    "philosophy": "Philosophy",
+    "about": "About",
+    "services": "Services",
+    "references": "References",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "cta": "Start a Project"
+  },
+  "core": {
+    "navigatorLabel": "Core system layers",
+    "layers": {
+      "hero": "Origin",
+      "philosophy": "Philosophy",
+      "about": "Genesis",
+      "services": "Modules",
+      "pricing": "Investment",
+      "contact": "Connect"
+    }
+  },
+  "hero": {
+    "badge": "AGM Core Tech",
+    "title": "Engineered for Scale.",
+    "titleHighlight": "Built for Enterprise.",
+    "subtitle": "We architect scalable software systems, business platforms, and integration infrastructure — not marketing services.",
+    "ctaPrimary": "View services",
+    "ctaSecondary": "Get in touch",
+    "stats": {
+      "clients": "Happy clients",
+      "years": "Years in business"
+    },
+    "gallery": {
+      "label": "Engineering showcase",
+      "slides": {
+        "architecture": {
+          "category": "Core Engineering",
+          "title": "Scalable backend & cloud infrastructure",
+          "alt": "Dark server racks with cyan accent lighting in an enterprise data center"
+        },
+        "integrations": {
+          "category": "Integrations",
+          "title": "API layers & connected data fabric",
+          "alt": "Abstract glowing network nodes connected by cyan and purple light lines"
+        },
+        "platforms": {
+          "category": "Platforms",
+          "title": "Enterprise operations & analytics",
+          "alt": "Curved monitor displaying a dark enterprise analytics dashboard with subtle UI glow"
+        },
+        "reference": {
+          "category": "Reference",
+          "title": "Maison No.1 — luxury e-commerce platform",
+          "alt": "Minimal luxury product display with purple and cyan rim lighting"
+        }
+      }
+    }
+  },
+  "philosophy": {
+    "badge": "Philosophy",
+    "quoteTitle": "How we work",
+    "quote": "We don't build temporary fixes — we engineer sustainable architectures that adapt to your business growth pace. We meet your needs with the right technology and deliver uninterrupted, high-performance digital infrastructure.",
+    "founder": {
+      "name": "Atilla Görkem Meriç",
+      "role": "Founder & Chief Engineer, AGM Core Tech"
+    },
+    "pillars": {
+      "precision": {
+        "code": "CORE-01",
+        "title": "True Needs Analysis",
+        "description": "Instead of quick-fix features, we focus on strategic development that grows your business. We X-ray your operations and deliver pinpoint solutions for your real needs."
+      },
+      "resilience": {
+        "code": "CORE-02",
+        "title": "Sustainable Architecture",
+        "description": "Not patched-up code — we build stable infrastructure that adapts to your growing volume for years. Every component is designed to optimize resource usage and server costs."
+      },
+      "evolution": {
+        "code": "CORE-03",
+        "title": "Uninterrupted Trust",
+        "description": "We deliver every system we build to the highest security and business continuity standards. We don't leave your technology to chance — we ensure your digital assets run 24/7 without interruption."
+      }
+    }
+  },
+  "about": {
+    "badge": "Core Genesis",
+    "title": "Growth Journey",
+    "subtitle": "Technological expansion — from the stability of the first line of code to the flexible AGM Core Tech infrastructure that carries your business into the future.",
+    "ringLabel": "Ring expansion on scroll",
+    "vision": "Our vision is to solve complex infrastructure problems with raw engineering strength, giving businesses uninterrupted performance, security, and a sustainable foundation for growth in the digital world.",
+    "founder": "AGM Core Tech",
+    "stepsHeading": "Technological development stages",
+    "steps": {
+      "step1": {
+        "label": "Stage 01",
+        "title": "Discovery & Needs Analysis",
+        "description": "We map your current operations, bottlenecks, and growth goals. Instead of quick fixes, we define a strategic roadmap aligned with your real needs."
+      },
+      "step2": {
+        "label": "Stage 02",
+        "title": "Architecture Design",
+        "description": "We design sustainable, scalable infrastructure that optimizes costs. Every component's role and long-term fit in the system is clarified."
+      },
+      "step3": {
+        "label": "Stage 03",
+        "title": "Development & Integration",
+        "description": "We build and connect applications, APIs, and third-party systems with the right technology stack. Stability and performance are priorities from the first line of code."
+      },
+      "step4": {
+        "label": "Stage 04",
+        "title": "Security & Performance Testing",
+        "description": "We bring the system to production standards through security, load, and business continuity checks. Uninterrupted operation and high performance targets are validated."
+      },
+      "step5": {
+        "label": "Stage 05",
+        "title": "Launch & Continuous Evolution",
+        "description": "After go-live, monitoring, optimization, and iterative development adapt your digital infrastructure to growing volume and carry it into the future."
+      }
+    }
+  },
+  "services": {
+    "badge": "Services",
+    "title": "Enterprise Capabilities",
+    "subtitle": "Three focused disciplines — core engineering, business systems, and technology consulting. Select a capability to explore.",
+    "panelBadge": "Selected service",
+    "panelCta": "View pricing",
+    "items": {
+      "customSoftware": {
+        "title": "Custom Software Development",
+        "description": "Purpose-built applications engineered from first principles — web, desktop, and internal tools. Full lifecycle delivery from architecture through production operations."
+      },
+      "scalableBackend": {
+        "title": "Scalable Backend Architectures",
+        "description": "High-throughput backend systems designed for growth — microservices, event-driven pipelines, and cost-efficient infrastructure that scales with demand."
+      },
+      "apiIntegrations": {
+        "title": "API Development & System Integrations",
+        "description": "Robust API layers and integration bridges connecting ERP, CRM, marketplaces, and third-party services into a unified, reliable data fabric."
+      },
+      "databaseOptimization": {
+        "title": "Database & Performance Optimization",
+        "description": "Deep performance engineering for data-intensive systems — query tuning, indexing strategy, replication, and observability for mission-critical workloads."
+      },
+      "erpInventorySystems": {
+        "title": "ERP / Inventory Management Systems",
+        "description": "Centralized inventory, procurement, and order orchestration platforms — real-time stock visibility across warehouses, channels, and fulfillment partners."
+      },
+      "marketplacePlatforms": {
+        "title": "Marketplace & Data Integration Platforms",
+        "description": "Multi-channel commerce infrastructure — automated listing, pricing, stock sync, and order routing across global and regional marketplaces."
+      },
+      "workflowAutomation": {
+        "title": "Workflow Automation Systems",
+        "description": "BPM-style process automation — business rules, approval chains, task routing, and operational dashboards that eliminate manual handoffs."
+      },
+      "enterpriseTechConsulting": {
+        "title": "Enterprise Technology Consulting",
+        "description": "Architecture assessments, technology stack evaluation, and engineering leadership for teams navigating complex infrastructure decisions."
+      },
+      "digitalTransformationConsulting": {
+        "title": "Digital Transformation Consulting",
+        "description": "End-to-end transformation roadmaps — legacy modernization, platform strategy, team structure, and phased execution for enterprise-scale change."
+      }
+    },
+    "categories": {
+      "coreEngineering": {
+        "label": "Core Software Engineering",
+        "description": "Foundational systems built for performance, scale, and long-term maintainability."
+      },
+      "businessSystems": {
+        "label": "Business Systems & Platforms",
+        "description": "Operational platforms that unify data, workflows, and enterprise processes."
+      },
+      "technologyConsulting": {
+        "label": "Technology Consulting",
+        "description": "Strategic guidance for architecture decisions and digital transformation."
+      }
+    }
+  },
+  "references": {
+    "badge": "References",
+    "title": "Live project showcase",
+    "subtitle": "Browse iframe-friendly sites directly here — copy the link or open in a new tab.",
+    "backHome": "Back to home",
+    "visitSite": "Open site",
+    "copyLink": "Copy link",
+    "copied": "Copied",
+    "items": {
+      "maisonNo1": {
+        "title": "Maison No.1",
+        "description": "Premium e-commerce for a luxury fashion brand — editorial storefront, collection-led UX, and brand-aligned interface.",
+        "category": "E-Commerce"
+      }
+    }
+  },
+  "pricing": {
+    "badge": "Investment",
+    "title": "Service-Based Pricing",
+    "subtitle": "Browse by discipline and service — monthly retainer or project-based engagement with launch pricing for early partners.",
+    "launchBadge": "20% Launch Offer",
+    "launchNote": "We're a new studio — all packages are 20% off for early partners.",
+    "discountLabel": "-20%",
+    "retainerOnlyNote": "This service is offered on a monthly retainer only — no project-based pricing.",
+    "toggle": {
+      "subscription": "Monthly Retainer",
+      "onetime": "Project-Based"
+    },
+    "services": {
+      "customSoftware": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€3,500",
+            "priceOnetime": "€12,000",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Single-module web app or MVP — fast path from idea to production.",
+            "features": [
+              "Needs analysis and technical roadmap",
+              "Single module / admin panel development",
+              "Responsive UI and core user flows",
+              "Go-live deployment and 30-day support"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€6,500",
+            "priceOnetime": "€22,000",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Multi-module web application — end-to-end development and maintenance.",
+            "features": [
+              "Multi-module custom software architecture",
+              "Admin panel, role management, and reporting",
+              "API layer and third-party integrations",
+              "Weekly sprints, code reviews, and CI/CD",
+              "3 months post-launch maintenance and optimization"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Custom quote",
+            "priceOnetime": "Custom quote",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Web + desktop, multi-team delivery, and enterprise-grade processes.",
+            "features": [
+              "Full-scope web and desktop software",
+              "Dedicated development team and project manager",
+              "Security audit and load testing",
+              "SLA, documentation, and training",
+              "Long-term evolution and tailored roadmap"
+            ]
+          }
+        }
+      },
+      "scalableBackend": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€2,800",
+            "priceOnetime": "€9,500",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Solid API and infrastructure foundation for your existing system.",
+            "features": [
+              "Current backend architecture review",
+              "REST/GraphQL API design and development",
+              "Basic caching and error handling",
+              "Deployment guide and monitoring setup"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€5,800",
+            "priceOnetime": "€18,000",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Scalable backend architecture built for high traffic.",
+            "features": [
+              "Microservices or modular monolith architecture",
+              "Load balancing, queues, and async workflows",
+              "Auto-scaling strategy",
+              "Performance profiling and cost optimization",
+              "Monthly architecture review and improvements"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Custom quote",
+            "priceOnetime": "Custom quote",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Enterprise-scale backend transformation for mission-critical systems.",
+            "features": [
+              "Multi-region and high availability",
+              "Zero-downtime migration plan",
+              "Dedicated SRE / backend team",
+              "24/7 monitoring, SLA, and incident response",
+              "Enterprise security and compliance standards"
+            ]
+          }
+        }
+      },
+      "apiIntegrations": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€1,800",
+            "priceOnetime": "€4,500",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Single integration endpoint — API design and bidirectional data sync.",
+            "features": [
+              "1 marketplace API integration (Trendyol or Amazon)",
+              "Product, stock, and price sync",
+              "Order webhooks and notification flow",
+              "Error logging and basic reporting"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€3,200",
+            "priceOnetime": "€8,500",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Multi-system integration hub with centralized monitoring and error handling.",
+            "features": [
+              "2–3 simultaneous marketplace integrations",
+              "Central stock and price management panel",
+              "Automatic sync and conflict resolution",
+              "Order routing and status tracking",
+              "Monthly integration maintenance and API updates"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Custom quote",
+            "priceOnetime": "Custom quote",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Enterprise integration fabric — unlimited endpoints, ERP, and real-time pipelines.",
+            "features": [
+              "Unlimited marketplaces and custom API connections",
+              "ERP / WMS / accounting system integration",
+              "Real-time data pipeline and failover",
+              "Dedicated integration team",
+              "Custom SLA and business continuity plan"
+            ]
+          }
+        }
+      },
+      "databaseOptimization": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€950",
+            "priceOnetime": "€2,800",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Quick performance boost for slowing queries.",
+            "features": [
+              "Database health scan",
+              "Critical query optimization (up to 5 queries)",
+              "Index recommendations and implementation",
+              "Before / after performance report"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€2,200",
+            "priceOnetime": "€6,500",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Full database audit and optimization.",
+            "features": [
+              "Schema and index architecture review",
+              "Query plan analysis and batch optimization",
+              "Connection pool and cache strategy",
+              "Backup and recovery verification",
+              "Monthly performance monitoring"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Custom quote",
+            "priceOnetime": "Custom quote",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Enterprise continuity and scale for critical databases.",
+            "features": [
+              "High availability and replication architecture",
+              "Sharding / partitioning strategy",
+              "24/7 performance monitoring and response",
+              "Disaster recovery plan",
+              "Dedicated DBA consulting"
+            ]
+          }
+        }
+      },
+      "erpInventorySystems": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€2,200",
+            "priceOnetime": "€7,500",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Core inventory tracking and order visibility for a single operation.",
+            "features": [
+              "Central order list and status tracking",
+              "Basic stock level monitoring",
+              "Low-stock alerts",
+              "Excel / CSV export"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€4,500",
+            "priceOnetime": "€14,000",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Multi-warehouse ERP-style inventory and order orchestration.",
+            "features": [
+              "Multi-channel order consolidation",
+              "Real-time warehouse and stock sync",
+              "Automatic order status updates",
+              "Operations dashboard and KPI reports",
+              "Compatible with marketplace integrations"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Custom quote",
+            "priceOnetime": "Custom quote",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Enterprise inventory platform — multi-brand, multi-region operations hub.",
+            "features": [
+              "Multi-warehouse, multi-brand stock management",
+              "Business rule engine and automated workflows",
+              "ERP and logistics partner integrations",
+              "Dedicated operations consulting",
+              "Custom reporting and BI integration"
+            ]
+          }
+        }
+      },
+      "marketplacePlatforms": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€1,800",
+            "priceOnetime": "€4,500",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Single marketplace channel — listing, stock, and price synchronization.",
+            "features": [
+              "1 marketplace API integration",
+              "Product, stock, and price sync",
+              "Order webhooks and status flow",
+              "Error logging and sync reporting"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€3,200",
+            "priceOnetime": "€8,500",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Multi-channel marketplace platform with central operations console.",
+            "features": [
+              "2–3 marketplace integrations",
+              "Central listing and inventory console",
+              "Automated sync and conflict resolution",
+              "Order routing and fulfillment tracking",
+              "Monthly API maintenance and updates"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Custom quote",
+            "priceOnetime": "Custom quote",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Global marketplace infrastructure with full ERP/WMS connectivity.",
+            "features": [
+              "Unlimited marketplaces and custom connectors",
+              "ERP / WMS / accounting integration",
+              "Real-time data pipeline and failover",
+              "Dedicated integration engineering team",
+              "Custom SLA and business continuity plan"
+            ]
+          }
+        }
+      },
+      "workflowAutomation": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€2,000",
+            "priceOnetime": "€6,500",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Single-process automation — approvals and task routing.",
+            "features": [
+              "Process mapping and requirements workshop",
+              "1 automated workflow with approval chain",
+              "Email / notification triggers",
+              "Basic operations dashboard"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€4,200",
+            "priceOnetime": "€13,000",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Multi-department BPM — rules engine and operational visibility.",
+            "features": [
+              "Multi-step workflows across teams",
+              "Business rules engine and conditional routing",
+              "SLA tracking and escalation rules",
+              "Integration with existing systems",
+              "Monthly process optimization reviews"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Custom quote",
+            "priceOnetime": "Custom quote",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Enterprise-wide process automation and orchestration platform.",
+            "features": [
+              "Organization-wide workflow catalog",
+              "ERP / CRM / HR system integrations",
+              "Custom analytics and compliance reporting",
+              "Dedicated BPM implementation team",
+              "Governance framework and change management"
+            ]
+          }
+        }
+      },
+      "enterpriseTechConsulting": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€1,500",
+            "priceOnetime": "€3,500",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "One-time technology audit with a prioritized action plan.",
+            "features": [
+              "Infrastructure and codebase general audit",
+              "Bottleneck and risk analysis report",
+              "Technology stack evaluation",
+              "90-day action plan"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€3,000",
+            "priceOnetime": "€7,500",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Monthly consulting — digital transformation roadmap.",
+            "features": [
+              "Monthly strategy session (2 hours)",
+              "Architecture decision support and documentation",
+              "Vendor / technology selection guidance",
+              "Team structure recommendations",
+              "Quarterly progress report"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Custom quote",
+            "priceOnetime": "Custom quote",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "CTO-level ongoing technology leadership.",
+            "features": [
+              "Dedicated technology advisor",
+              "On-site workshops and team training",
+              "Enterprise transformation program management",
+              "Board / executive presentations",
+              "Long-term innovation roadmap"
+            ]
+          }
+        }
+      },
+      "digitalTransformationConsulting": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€1,800",
+            "priceOnetime": "€4,500",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Transformation readiness assessment with a phased roadmap.",
+            "features": [
+              "Current-state technology audit",
+              "Gap analysis and risk assessment",
+              "Prioritized transformation roadmap",
+              "Executive summary and next-step plan"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€3,500",
+            "priceOnetime": "€9,000",
+            "periodSubscription": "/month",
+            "periodOnetime": " fixed",
+            "description": "Ongoing transformation advisory — strategy, governance, and execution.",
+            "features": [
+              "Monthly strategy sessions",
+              "Legacy modernization planning",
+              "Vendor and platform selection support",
+              "Change management guidance",
+              "Quarterly executive progress reports"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Custom quote",
+            "priceOnetime": "Custom quote",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Full-scale digital transformation program leadership.",
+            "features": [
+              "Dedicated transformation lead",
+              "Multi-year program management",
+              "Cross-functional workshop facilitation",
+              "Board-level reporting and governance",
+              "Innovation and platform evolution roadmap"
+            ]
+          }
+        }
+      }
+    },
+    "cta": "Choose Plan",
+    "contact": "Get a Custom Quote",
+    "popular": "Most Popular"
+  },
+  "contact": {
+    "badge": "Let's Build",
+    "title": "Start Your Project",
+    "subtitle": "Tell us about your needs — we'll craft the perfect engineering solution.",
+    "wizard": {
+      "step1": {
+        "title": "What do you need?",
+        "subtitle": "Choose a service — tapping a card moves you to the next step."
+      },
+      "step2": {
+        "title": "What's your estimated budget?",
+        "subtitle": "Pick a budget range — tapping a card moves you to the next step."
+      },
+      "step3": {
+        "title": "When would you like to start?",
+        "subtitle": "Select your preferred timeline."
+      },
+      "step4": {
+        "title": "Your Information",
+        "subtitle": "How can we reach you?"
+      },
+      "step5": {
+        "title": "Review & Send",
+        "subtitle": "Check your selections and send your message."
+      },
+      "review": {
+        "service": "Service"
+      },
+      "hint": {
+        "selectToContinue": "Select a card to continue"
+      },
+      "services": {
+        "customSoftware": "Custom Software Development",
+        "scalableBackend": "Scalable Backend Architectures",
+        "apiIntegrations": "API Development & System Integrations",
+        "databaseOptimization": "Database & Performance Optimization",
+        "erpInventorySystems": "ERP / Inventory Management Systems",
+        "marketplacePlatforms": "Marketplace & Data Integration Platforms",
+        "workflowAutomation": "Workflow Automation Systems",
+        "enterpriseTechConsulting": "Enterprise Technology Consulting",
+        "digitalTransformationConsulting": "Digital Transformation Consulting",
+        "other": "Other"
+      },
+      "budget": {
+        "label": "Estimated Budget",
+        "placeholder": "Select budget range",
+        "options": {
+          "small": "Under €10,000",
+          "medium": "€10,000 – €50,000",
+          "large": "€50,000 – €150,000",
+          "enterprise": "€150,000+"
+        }
+      },
+      "timeline": {
+        "label": "Desired Timeline",
+        "placeholder": "Select timeline",
+        "options": {
+          "urgent": "ASAP (< 1 month)",
+          "short": "1–3 months",
+          "medium": "3–6 months",
+          "long": "6+ months"
+        }
+      },
+      "fields": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "company": "Company (optional)",
+        "message": "Additional Details"
+      },
+      "buttons": {
+        "next": "Continue",
+        "back": "Back",
+        "submit": "Send Message",
+        "edit": "Edit"
+      },
+      "success": {
+        "title": "Message Sent!",
+        "description": "Thank you for reaching out. We'll get back to you within 24 hours."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Websites, apps and integrations — built with care.",
+    "rights": "All rights reserved.",
+    "contact": {
+      "badge": "Contact",
+      "title": "Get in Touch",
+      "subtitle": "Send us an email or fill out the form — we'll get back to you as soon as possible.",
+      "emailLabel": "Email",
+      "locationLabel": "Location",
+      "location": "Istanbul, Turkey",
+      "hoursLabel": "Working hours",
+      "hours": "Mon–Fri 09:00 – 18:00",
+      "cta": "Start a Project"
+    },
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  },
+  "notFound": {
+    "label": "404",
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist or may have been moved.",
+    "cta": "Back to home"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "metaDescription": "Learn how AGM Core Tech collects, uses, and protects personal data submitted through our website and contact forms.",
+      "updated": "Last updated: June 2026",
+      "intro": "This Privacy Policy explains how AGM Core Tech (“we”, “us”) handles information when you visit our website or contact us about our services.",
+      "sections": {
+        "data": {
+          "title": "Information we collect",
+          "body": "We may collect information you voluntarily provide through contact forms, such as your name, email address, company name, project details, budget range, and timeline preferences. We also collect standard technical data including browser type, device information, and anonymized usage metrics through server logs."
+        },
+        "use": {
+          "title": "How we use your information",
+          "body": "We use submitted information to respond to inquiries, prepare proposals, deliver contracted services, and improve our website experience. We do not sell personal data to third parties."
+        },
+        "rights": {
+          "title": "Your rights",
+          "body": "Depending on your jurisdiction, you may request access, correction, deletion, or restriction of your personal data. Contact us at info@agmcoretech.com to exercise these rights."
+        },
+        "contact": {
+          "title": "Contact",
+          "body": "For privacy-related questions, email info@agmcoretech.com or write to AGM Core Tech, Istanbul, Turkey."
+        }
+      }
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "metaDescription": "Terms governing use of the AGM Core Tech website and engagement with our software engineering and consulting services.",
+      "updated": "Last updated: June 2026",
+      "intro": "By accessing this website or submitting a project inquiry, you agree to the following terms.",
+      "sections": {
+        "data": {
+          "title": "Website use",
+          "body": "You may browse this website for lawful purposes only. Content, branding, and materials are owned by AGM Core Tech unless otherwise stated and may not be copied without permission."
+        },
+        "use": {
+          "title": "Services and proposals",
+          "body": "Pricing shown on this website is indicative. Final scope, deliverables, and fees are defined in a written agreement before work begins. We reserve the right to update service descriptions and pricing."
+        },
+        "rights": {
+          "title": "Limitation of liability",
+          "body": "This website is provided on an “as is” basis. To the fullest extent permitted by law, AGM Core Tech is not liable for indirect damages arising from use of the website or reliance on general information published here."
+        },
+        "contact": {
+          "title": "Contact",
+          "body": "Questions about these terms can be sent to info@agmcoretech.com."
+        }
+      }
+    }
+  }
+}

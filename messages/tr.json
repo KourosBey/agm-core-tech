@@ -1,0 +1,808 @@
+{
+  "metadata": {
+    "title": "AGM Core Tech — Kurumsal Yazılım Mühendisliği",
+    "description": "AGM Core Tech, kurumsal ekipler için ölçeklenebilir yazılım sistemleri, iş platformları ve entegrasyon altyapıları tasarlar."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "main": "Ana menü",
+    "philosophy": "Felsefe",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "references": "Referanslar",
+    "pricing": "Fiyatlandırma",
+    "contact": "İletişim",
+    "cta": "Proje Başlat"
+  },
+  "core": {
+    "navigatorLabel": "Çekirdek sistem katmanları",
+    "layers": {
+      "hero": "Köken",
+      "philosophy": "Felsefe",
+      "about": "Gelişim",
+      "services": "Hizmetler",
+      "pricing": "Yatırım",
+      "contact": "İletişim"
+    }
+  },
+  "hero": {
+    "badge": "AGM Core Tech",
+    "title": "Ölçeklenebilir Sistemler,",
+    "titleHighlight": "Kurumsal Mühendislik.",
+    "subtitle": "Ölçeklenebilir yazılım sistemleri, iş platformları ve entegrasyon altyapıları inşa ediyoruz — pazarlama hizmetleri değil.",
+    "ctaPrimary": "Hizmetleri gör",
+    "ctaSecondary": "İletişime geç",
+    "stats": {
+      "clients": "Mutlu müşteri",
+      "years": "Yıllık deneyim"
+    },
+    "gallery": {
+      "label": "Mühendislik vitrin",
+      "slides": {
+        "architecture": {
+          "category": "Temel Mühendislik",
+          "title": "Ölçeklenebilir backend ve bulut altyapısı",
+          "alt": "Cyan vurgulu aydınlatmalı sunucu rafları — kurumsal veri merkezi"
+        },
+        "integrations": {
+          "category": "Entegrasyonlar",
+          "title": "API katmanları ve bağlı veri dokusu",
+          "alt": "Cyan ve mor ışık çizgileriyle bağlı soyut ağ düğümleri"
+        },
+        "platforms": {
+          "category": "Platformlar",
+          "title": "Kurumsal operasyonlar ve analitik",
+          "alt": "Koyu kurumsal analitik paneli — ince UI parıltısı"
+        },
+        "reference": {
+          "category": "Referans",
+          "title": "Maison No.1 — lüks e-ticaret platformu",
+          "alt": "Mor ve cyan kenar ışığıyla minimal lüks ürün vitrini"
+        }
+      }
+    }
+  },
+  "philosophy": {
+    "badge": "Felsefe",
+    "quoteTitle": "Nasıl çalışıyoruz",
+    "quote": "Geçici çözümler üretmiyor, işletmenizin büyüme hızına uyum sağlayan sürdürülebilir mimariler inşa ediyoruz. İhtiyaçlarınızı en doğru teknolojiyle karşılıyor, kesintisiz ve yüksek performanslı bir dijital altyapı sunuyoruz.",
+    "founder": {
+      "name": "Atilla Görkem Meriç",
+      "role": "Kurucu & Baş Mühendis, AGM Core Tech"
+    },
+    "pillars": {
+      "precision": {
+        "code": "CORE-01",
+        "title": "Gerçek İhtiyaç Analizi",
+        "description": "Günü kurtaran geçici özellikler yerine, sadece işinizi büyütecek stratejik geliştirmelere odaklanıyoruz. İşletmenizin operasyonel röntgenini çekerek gerçek ihtiyaçlarınıza nokta atışı çözümler üretiyoruz."
+      },
+      "resilience": {
+        "code": "CORE-02",
+        "title": "Sürdürülebilir Mimari",
+        "description": "Sürekli yama yapılan kodlar değil, büyüyen hacminize yıllarca uyum sağlayacak kararlı altyapılar inşa ediyoruz. Her bileşeni, sistemdeki kaynak tüketimini ve sunucu maliyetlerinizi optimize edecek şekilde kurguluyoruz."
+      },
+      "evolution": {
+        "code": "CORE-03",
+        "title": "Kesintisiz Güven",
+        "description": "Geliştirdiğimiz her sistemi en yüksek güvenlik ve iş sürekliliği standartlarıyla teslim ediyoruz. Teknolojinizi şansa bırakmıyor, dijital varlıklarınızın 7/24 kesintisiz çalışmasını güvenceye alıyoruz."
+      }
+    }
+  },
+  "about": {
+    "badge": "Teknolojik Köken",
+    "title": "Büyüme Yolculuğu",
+    "subtitle": "Teknolojik genişleme; ilk satır kodun kararlılığından, işletmenizi geleceğe taşıyan esnek AGM Core Tech altyapısına.",
+    "ringLabel": "Kaydırmada halka genişlemesi",
+    "vision": "Vizyonumuz; karmaşık altyapı problemlerini ham mühendislik gücüyle çözerek, işletmelere dijital dünyada kesintisiz performans, güvenlik ve sürdürülebilir bir büyüme zemini sunmaktır.",
+    "founder": "AGM Core Tech",
+    "stepsHeading": "Teknolojik gelişim adımları",
+    "steps": {
+      "step1": {
+        "label": "Kademe 01",
+        "title": "Keşif & İhtiyaç Analizi",
+        "description": "İşletmenizin mevcut operasyonunu, darboğazlarını ve büyüme hedeflerini haritalandırıyoruz. Geçici çözümler yerine gerçek ihtiyaca yönelik stratejik yol haritası çıkarıyoruz."
+      },
+      "step2": {
+        "label": "Kademe 02",
+        "title": "Mimari Tasarım",
+        "description": "Sürdürülebilir, ölçeklenebilir ve maliyetleri optimize eden altyapı mimarisini kurguluyoruz. Her bileşenin sistemdeki rolü ve uzun vadeli uyumu netleştirilir."
+      },
+      "step3": {
+        "label": "Kademe 03",
+        "title": "Geliştirme & Entegrasyon",
+        "description": "En doğru teknoloji yığını ile uygulama, veri arayüzü ve üçüncü taraf sistemleri birbirine bağlıyoruz. İlk satır koddan itibaren kararlılık ve performans önceliğimizdir."
+      },
+      "step4": {
+        "label": "Kademe 04",
+        "title": "Güvenlik & Performans Testi",
+        "description": "Güvenlik, yük testi ve iş sürekliliği kontrolleriyle sistemi canlı ortam standartlarına taşıyoruz. Kesintisiz çalışma ve yüksek performans hedefleri doğrulanır."
+      },
+      "step5": {
+        "label": "Kademe 05",
+        "title": "Yayın & Sürekli Evrim",
+        "description": "Canlıya alım sonrası izleme, optimizasyon ve büyüyen hacminize uyum sağlayan yinelemeli geliştirmelerle dijital altyapınızı geleceğe taşıyoruz."
+      }
+    }
+  },
+  "services": {
+    "badge": "Hizmetler",
+    "title": "Kurumsal Yetkinlikler",
+    "subtitle": "Üç odaklı disiplin — temel mühendislik, iş sistemleri ve teknoloji danışmanlığı. Detaylar için bir yetkinlik seçin.",
+    "panelBadge": "Seçili hizmet",
+    "panelCta": "Fiyatlandırmayı gör",
+    "items": {
+      "customSoftware": {
+        "title": "Özel Yazılım Geliştirme",
+        "description": "İlk prensiplerden tasarlanmış uygulamalar — web, masaüstü ve dahili araçlar. Mimari tasarımdan üretim operasyonlarına tam yaşam döngüsü teslimatı."
+      },
+      "scalableBackend": {
+        "title": "Ölçeklenebilir Backend Mimarileri",
+        "description": "Büyüme için tasarlanmış yüksek verimli backend sistemleri — mikroservisler, olay güdümlü boru hatları ve talebe göre ölçeklenen maliyet verimli altyapı."
+      },
+      "apiIntegrations": {
+        "title": "API Geliştirme ve Sistem Entegrasyonları",
+        "description": "ERP, CRM, pazaryerleri ve üçüncü taraf servisleri birleşik, güvenilir bir veri dokusuna bağlayan sağlam API katmanları ve entegrasyon köprüleri."
+      },
+      "databaseOptimization": {
+        "title": "Veritabanı ve Performans Optimizasyonu",
+        "description": "Veri yoğun sistemler için derin performans mühendisliği — sorgu optimizasyonu, indeks stratejisi, replikasyon ve kritik iş yükleri için gözlemlenebilirlik."
+      },
+      "erpInventorySystems": {
+        "title": "ERP / Envanter Yönetim Sistemleri",
+        "description": "Merkezi envanter, tedarik ve sipariş orkestrasyon platformları — depolar, kanallar ve fulfillment ortakları genelinde gerçek zamanlı stok görünürlüğü."
+      },
+      "marketplacePlatforms": {
+        "title": "Pazaryeri ve Veri Entegrasyon Platformları",
+        "description": "Çok kanallı ticaret altyapısı — global ve bölgesel pazaryerlerinde otomatik listeleme, fiyatlandırma, stok senkronizasyonu ve sipariş yönlendirme."
+      },
+      "workflowAutomation": {
+        "title": "İş Akışı Otomasyon Sistemleri",
+        "description": "BPM tarzı süreç otomasyonu — iş kuralları, onay zincirleri, görev yönlendirme ve manuel aktarımları ortadan kaldıran operasyonel panolar."
+      },
+      "enterpriseTechConsulting": {
+        "title": "Kurumsal Teknoloji Danışmanlığı",
+        "description": "Karmaşık altyapı kararlarında ekiplere mimari değerlendirmeler, teknoloji yığını analizi ve mühendislik liderliği."
+      },
+      "digitalTransformationConsulting": {
+        "title": "Dijital Dönüşüm Danışmanlığı",
+        "description": "Uçtan uca dönüşüm yol haritaları — legacy modernizasyon, platform stratejisi, ekip yapısı ve kurumsal ölçekte değişim için aşamalı uygulama."
+      }
+    },
+    "categories": {
+      "coreEngineering": {
+        "label": "Temel Yazılım Mühendisliği",
+        "description": "Performans, ölçek ve uzun vadeli sürdürülebilirlik için tasarlanmış temel sistemler."
+      },
+      "businessSystems": {
+        "label": "İş Sistemleri ve Platformlar",
+        "description": "Veri, iş akışları ve kurumsal süreçleri birleştiren operasyonel platformlar."
+      },
+      "technologyConsulting": {
+        "label": "Teknoloji Danışmanlığı",
+        "description": "Mimari kararlar ve dijital dönüşüm için stratejik rehberlik."
+      }
+    }
+  },
+  "references": {
+    "badge": "Referanslar",
+    "title": "Canlı projelerimiz",
+    "subtitle": "Gömülü önizleme destekleyen sitelerimizi burada doğrudan gezebilir, bağlantıyı kopyalayabilir veya yeni sekmede açabilirsiniz.",
+    "backHome": "Ana sayfaya dön",
+    "visitSite": "Siteyi aç",
+    "copyLink": "Bağlantıyı kopyala",
+    "copied": "Kopyalandı",
+    "items": {
+      "maisonNo1": {
+        "title": "Maison No.1",
+        "description": "Lüks moda markası için üst düzey e-ticaret deneyimi — editoryal vitrin, koleksiyon odaklı kullanıcı deneyimi ve marka kimliğine uygun arayüz.",
+        "category": "E-Ticaret"
+      }
+    }
+  },
+  "pricing": {
+    "badge": "Yatırım",
+    "title": "Hizmet Bazlı Fiyatlandırma",
+    "subtitle": "Disiplin ve hizmete göre göz atın — erken ortaklar için açılış fiyatlarıyla aylık retainer veya proje bazlı çalışma.",
+    "launchBadge": "Açılışa Özel %20",
+    "launchNote": "Yeni bir stüdyoyuz — erken dönem ortaklarımıza tüm paketlerde %20 indirim uygulanır.",
+    "discountLabel": "-%20",
+    "retainerOnlyNote": "Bu hizmet yalnızca aylık destek anlaşması ile sunulur — proje bazlı fiyatlandırma yapılmaz.",
+    "toggle": {
+      "subscription": "Aylık Destek Anlaşması",
+      "onetime": "Proje Bazlı"
+    },
+    "services": {
+      "customSoftware": {
+        "tiers": {
+          "starter": {
+            "name": "Başlangıç",
+            "priceSubscription": "€3.500",
+            "priceOnetime": "€12.000",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Tek modüllü web uygulaması veya ilk sürüm prototipi — fikirden canlıya hızlı geçiş.",
+            "features": [
+              "İhtiyaç analizi ve teknik yol haritası",
+              "Tek modül / yönetim paneli geliştirme",
+              "Mobil uyumlu arayüz ve temel kullanıcı akışları",
+              "Canlıya alım ve 30 gün destek"
+            ]
+          },
+          "professional": {
+            "name": "Profesyonel",
+            "priceSubscription": "€6.500",
+            "priceOnetime": "€22.000",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Çok modüllü web uygulaması — uçtan uca geliştirme ve bakım.",
+            "features": [
+              "Çok modüllü özel yazılım mimarisi",
+              "Yönetim paneli, rol yönetimi ve raporlama",
+              "Veri arayüzü katmanı ve üçüncü taraf entegrasyonlar",
+              "Haftalık geliştirme döngüsü, kod incelemesi ve sürekli entegrasyon/dağıtım",
+              "3 ay yayın sonrası bakım ve optimizasyon"
+            ]
+          },
+          "enterprise": {
+            "name": "Kurumsal",
+            "priceSubscription": "Özel teklif",
+            "priceOnetime": "Özel teklif",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Web + masaüstü, çoklu ekip ve kurumsal teslimat süreçleri.",
+            "features": [
+              "Tam kapsamlı web ve masaüstü yazılım",
+              "Özel atanmış geliştirme ekibi ve proje yöneticisi",
+              "Güvenlik denetimi ve yük testi",
+              "Hizmet seviyesi anlaşması, dokümantasyon ve eğitim",
+              "Uzun vadeli evrim ve özelleştirilmiş yol haritası"
+            ]
+          }
+        }
+      },
+      "scalableBackend": {
+        "tiers": {
+          "starter": {
+            "name": "Başlangıç",
+            "priceSubscription": "€2.800",
+            "priceOnetime": "€9.500",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Mevcut sisteminiz için sağlam veri arayüzü ve altyapı temeli.",
+            "features": [
+              "Mevcut arka uç mimari incelemesi",
+              "Web tabanlı veri arayüzü tasarımı ve geliştirme",
+              "Temel önbellekleme ve hata yönetimi",
+              "Dağıtım rehberi ve izleme kurulumu"
+            ]
+          },
+          "professional": {
+            "name": "Profesyonel",
+            "priceSubscription": "€5.800",
+            "priceOnetime": "€18.000",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Yüksek trafik için ölçeklenebilir arka uç mimarisi.",
+            "features": [
+              "Mikroservis veya modüler tek parça mimari",
+              "Yük dengeleme, kuyruk ve eşzamansız iş akışları",
+              "Otomatik ölçeklendirme stratejisi",
+              "Performans profilleme ve maliyet optimizasyonu",
+              "Aylık mimari inceleme ve iyileştirme"
+            ]
+          },
+          "enterprise": {
+            "name": "Kurumsal",
+            "priceSubscription": "Özel teklif",
+            "priceOnetime": "Özel teklif",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Kritik sistemler için kurumsal ölçekte arka uç dönüşümü.",
+            "features": [
+              "Çok bölgeli ve yüksek erişilebilirlik",
+              "Kesintisiz geçiş planı",
+              "Özel atanmış güvenilirlik mühendisliği / arka uç ekibi",
+              "7/24 izleme, hizmet seviyesi anlaşması ve olay müdahale",
+              "Kurumsal güvenlik ve uyumluluk standartları"
+            ]
+          }
+        }
+      },
+      "apiIntegrations": {
+        "tiers": {
+          "starter": {
+            "name": "Başlangıç",
+            "priceSubscription": "€1.800",
+            "priceOnetime": "€4.500",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Tek entegrasyon uç noktası — API tasarımı ve çift yönlü veri senkronizasyonu.",
+            "features": [
+              "1 pazaryeri veri arayüzü entegrasyonu (Trendyol veya Amazon)",
+              "Ürün, stok ve fiyat eşitleme",
+              "Sipariş anlık bildirim bağlantısı ve bildirim akışı",
+              "Hata kaydı ve temel raporlama"
+            ]
+          },
+          "professional": {
+            "name": "Profesyonel",
+            "priceSubscription": "€3.200",
+            "priceOnetime": "€8.500",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Merkezi izleme ve hata yönetimiyle çoklu sistem entegrasyon merkezi.",
+            "features": [
+              "2–3 pazaryeri eş zamanlı entegrasyon",
+              "Merkezi stok ve fiyat yönetim paneli",
+              "Otomatik senkronizasyon ve çakışma çözümü",
+              "Sipariş yönlendirme ve durum takibi",
+              "Aylık entegrasyon bakımı ve veri arayüzü güncellemeleri"
+            ]
+          },
+          "enterprise": {
+            "name": "Kurumsal",
+            "priceSubscription": "Özel teklif",
+            "priceOnetime": "Özel teklif",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Kurumsal entegrasyon dokusu — sınırsız uç nokta, ERP ve gerçek zamanlı boru hatları.",
+            "features": [
+              "Sınırsız pazaryeri ve özel veri arayüzü bağlantıları",
+              "Kurumsal kaynak planlama / depo yönetimi / muhasebe entegrasyonu",
+              "Gerçek zamanlı veri hattı ve yedekli geçiş",
+              "Özel atanmış entegrasyon ekibi",
+              "Özel hizmet seviyesi anlaşması ve iş sürekliliği planı"
+            ]
+          }
+        }
+      },
+      "databaseOptimization": {
+        "tiers": {
+          "starter": {
+            "name": "Başlangıç",
+            "priceSubscription": "€950",
+            "priceOnetime": "€2.800",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Yavaşlayan sorgular için hızlı performans iyileştirmesi.",
+            "features": [
+              "Veritabanı sağlık taraması",
+              "Kritik sorgu optimizasyonu (5 sorguya kadar)",
+              "İndeks önerileri ve uygulama",
+              "Öncesi / sonrası performans raporu"
+            ]
+          },
+          "professional": {
+            "name": "Profesyonel",
+            "priceSubscription": "€2.200",
+            "priceOnetime": "€6.500",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Tam kapsamlı veritabanı denetimi ve optimizasyon.",
+            "features": [
+              "Şema ve indeks mimarisi incelemesi",
+              "Sorgu planı analizi ve toplu optimizasyon",
+              "Bağlantı havuzu ve önbellek stratejisi",
+              "Yedekleme ve kurtarma doğrulaması",
+              "Aylık performans izleme"
+            ]
+          },
+          "enterprise": {
+            "name": "Kurumsal",
+            "priceSubscription": "Özel teklif",
+            "priceOnetime": "Özel teklif",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Kritik veritabanları için kurumsal süreklilik ve ölçek.",
+            "features": [
+              "Yüksek erişilebilirlik ve replikasyon mimarisi",
+              "Parçalama ve bölümlendirme stratejisi",
+              "7/24 performans izleme ve müdahale",
+              "Felaket kurtarma planı",
+              "Özel atanmış veritabanı uzmanı danışmanlığı"
+            ]
+          }
+        }
+      },
+      "erpInventorySystems": {
+        "tiers": {
+          "starter": {
+            "name": "Başlangıç",
+            "priceSubscription": "€2.200",
+            "priceOnetime": "€7.500",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Tek operasyon için temel envanter takibi ve sipariş görünürlüğü.",
+            "features": [
+              "Merkezi sipariş listesi ve durum takibi",
+              "Temel stok seviyesi izleme",
+              "Düşük stok uyarıları",
+              "Elektronik tablo ve metin tabanlı dışa aktarım"
+            ]
+          },
+          "professional": {
+            "name": "Profesyonel",
+            "priceSubscription": "€4.500",
+            "priceOnetime": "€14.000",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Çok depolu ERP tarzı envanter ve sipariş orkestrasyonu.",
+            "features": [
+              "Çoklu satış kanalı sipariş birleştirme",
+              "Gerçek zamanlı depo ve stok senkronizasyonu",
+              "Otomatik sipariş durumu güncellemeleri",
+              "Operasyon gösterge paneli ve performans göstergeleri",
+              "Pazaryeri entegrasyonu ile uyumlu yapı"
+            ]
+          },
+          "enterprise": {
+            "name": "Kurumsal",
+            "priceSubscription": "Özel teklif",
+            "priceOnetime": "Özel teklif",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Kurumsal envanter platformu — çok markalı, çok bölgeli operasyon merkezi.",
+            "features": [
+              "Çok depolu, çok markalı stok yönetimi",
+              "İş kuralı motoru ve otomatik iş akışları",
+              "Kurumsal kaynak planlama ve lojistik ortak entegrasyonları",
+              "Özel atanmış operasyon danışmanlığı",
+              "Özel raporlama ve iş zekası entegrasyonu"
+            ]
+          }
+        }
+      },
+      "marketplacePlatforms": {
+        "tiers": {
+          "starter": {
+            "name": "Başlangıç",
+            "priceSubscription": "€1.800",
+            "priceOnetime": "€4.500",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Tek pazaryeri kanalı — listeleme, stok ve fiyat senkronizasyonu.",
+            "features": [
+              "1 pazaryeri API entegrasyonu",
+              "Ürün, stok ve fiyat senkronizasyonu",
+              "Sipariş webhook'ları ve durum akışı",
+              "Hata kaydı ve senkron raporlama"
+            ]
+          },
+          "professional": {
+            "name": "Profesyonel",
+            "priceSubscription": "€3.200",
+            "priceOnetime": "€8.500",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Merkezi operasyon konsoluyla çok kanallı pazaryeri platformu.",
+            "features": [
+              "2–3 pazaryeri entegrasyonu",
+              "Merkezi listeleme ve envanter konsolu",
+              "Otomatik senkron ve çakışma çözümü",
+              "Sipariş yönlendirme ve fulfillment takibi",
+              "Aylık API bakımı ve güncellemeler"
+            ]
+          },
+          "enterprise": {
+            "name": "Kurumsal",
+            "priceSubscription": "Özel teklif",
+            "priceOnetime": "Özel teklif",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Tam ERP/WMS bağlantılı global pazaryeri altyapısı.",
+            "features": [
+              "Sınırsız pazaryeri ve özel bağlayıcılar",
+              "ERP / WMS / muhasebe entegrasyonu",
+              "Gerçek zamanlı veri boru hattı ve failover",
+              "Özel entegrasyon mühendislik ekibi",
+              "Özel SLA ve iş sürekliliği planı"
+            ]
+          }
+        }
+      },
+      "workflowAutomation": {
+        "tiers": {
+          "starter": {
+            "name": "Başlangıç",
+            "priceSubscription": "€2.200",
+            "priceOnetime": "€7.500",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Tek süreç otomasyonu — onaylar ve görev yönlendirme.",
+            "features": [
+              "Süreç haritalama ve gereksinim atölyesi",
+              "Onay zincirli 1 otomatik iş akışı",
+              "E-posta / bildirim tetikleyicileri",
+              "Temel operasyon panosu"
+            ]
+          },
+          "professional": {
+            "name": "Profesyonel",
+            "priceSubscription": "€4.500",
+            "priceOnetime": "€14.000",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Çok departmanlı BPM — kural motoru ve operasyonel görünürlük.",
+            "features": [
+              "Ekipler arası çok adımlı iş akışları",
+              "İş kuralı motoru ve koşullu yönlendirme",
+              "SLA takibi ve eskalasyon kuralları",
+              "Mevcut sistemlerle entegrasyon",
+              "Aylık süreç optimizasyon incelemeleri"
+            ]
+          },
+          "enterprise": {
+            "name": "Kurumsal",
+            "priceSubscription": "Özel teklif",
+            "priceOnetime": "Özel teklif",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Kurum genelinde süreç otomasyonu ve orkestrasyon platformu.",
+            "features": [
+              "Kurum çapında iş akışı kataloğu",
+              "ERP / CRM / İK sistem entegrasyonları",
+              "Özel analitik ve uyumluluk raporlama",
+              "Özel BPM uygulama ekibi",
+              "Yönetişim çerçevesi ve değişim yönetimi"
+            ]
+          }
+        }
+      },
+      "enterpriseTechConsulting": {
+        "tiers": {
+          "starter": {
+            "name": "Başlangıç",
+            "priceSubscription": "€1.500",
+            "priceOnetime": "€3.500",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Tek seferlik teknoloji denetimi ve öncelikli aksiyon planı.",
+            "features": [
+              "Altyapı ve kod tabanı genel denetimi",
+              "Darboğaz ve risk analizi raporu",
+              "Teknoloji yığını değerlendirmesi",
+              "90 günlük aksiyon planı"
+            ]
+          },
+          "professional": {
+            "name": "Profesyonel",
+            "priceSubscription": "€3.000",
+            "priceOnetime": "€7.500",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Aylık danışmanlık — dijital dönüşüm yol haritası.",
+            "features": [
+              "Aylık strateji oturumu (2 saat)",
+              "Mimari karar desteği ve dokümantasyon",
+              "Tedarikçi ve teknoloji seçim rehberliği",
+              "Ekip yapılandırma önerileri",
+              "Çeyreklik ilerleme raporu"
+            ]
+          },
+          "enterprise": {
+            "name": "Kurumsal",
+            "priceSubscription": "Özel teklif",
+            "priceOnetime": "Özel teklif",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Teknoloji direktörü seviyesinde sürekli teknoloji liderliği.",
+            "features": [
+              "Özel atanmış teknoloji danışmanı",
+              "Yerinde atölye çalışması ve ekip eğitimleri",
+              "Kurumsal dönüşüm programı yönetimi",
+              "Yönetim kurulu sunumları",
+              "Uzun vadeli inovasyon yol haritası"
+            ]
+          }
+        }
+      },
+      "digitalTransformationConsulting": {
+        "tiers": {
+          "starter": {
+            "name": "Başlangıç",
+            "priceSubscription": "€1.500",
+            "priceOnetime": "€3.500",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Aşamalı yol haritasıyla dönüşüm hazırlık değerlendirmesi.",
+            "features": [
+              "Mevcut durum teknoloji denetimi",
+              "Boşluk analizi ve risk değerlendirmesi",
+              "Önceliklendirilmiş dönüşüm yol haritası",
+              "Yönetici özeti ve sonraki adım planı"
+            ]
+          },
+          "professional": {
+            "name": "Profesyonel",
+            "priceSubscription": "€3.000",
+            "priceOnetime": "€7.500",
+            "periodSubscription": "/ay",
+            "periodOnetime": " sabit",
+            "description": "Sürekli dönüşüm danışmanlığı — strateji, yönetişim ve uygulama.",
+            "features": [
+              "Aylık strateji oturumları",
+              "Legacy modernizasyon planlaması",
+              "Tedarikçi ve platform seçim desteği",
+              "Değişim yönetimi rehberliği",
+              "Üç aylık yönetici ilerleme raporları"
+            ]
+          },
+          "enterprise": {
+            "name": "Kurumsal",
+            "priceSubscription": "Özel teklif",
+            "priceOnetime": "Özel teklif",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Tam ölçekli dijital dönüşüm program liderliği.",
+            "features": [
+              "Özel dönüşüm lideri",
+              "Çok yıllı program yönetimi",
+              "Fonksiyonlar arası atölye kolaylaştırma",
+              "Yönetim kurulu düzeyinde raporlama",
+              "İnovasyon ve platform evrim yol haritası"
+            ]
+          }
+        }
+      }
+    },
+    "cta": "Plan Seç",
+    "contact": "Özel Teklif Al",
+    "popular": "En Çok Tercih Edilen"
+  },
+  "contact": {
+    "badge": "Hadi İnşa Edelim",
+    "title": "Projenizi Başlatın",
+    "subtitle": "İhtiyaçlarınızı anlatın — size mükemmel mühendislik çözümünü tasarlayalım.",
+    "wizard": {
+      "step1": {
+        "title": "Ne ihtiyacınız var?",
+        "subtitle": "İlgilendiğiniz hizmeti seçin — kutucuğa dokunduğunuzda bir sonraki adıma geçilir."
+      },
+      "step2": {
+        "title": "Tahmini bütçeniz?",
+        "subtitle": "Projenize uygun bütçe aralığını seçin — kutucuğa dokunduğunuzda bir sonraki adıma geçilir."
+      },
+      "step3": {
+        "title": "Ne zaman başlamak istersiniz?",
+        "subtitle": "Zaman çizelgenizi seçin."
+      },
+      "step4": {
+        "title": "Bilgileriniz",
+        "subtitle": "Size nasıl ulaşabiliriz?"
+      },
+      "step5": {
+        "title": "İncele & Gönder",
+        "subtitle": "Seçimlerinizi kontrol edin ve mesajınızı gönderin."
+      },
+      "review": {
+        "service": "Hizmet"
+      },
+      "hint": {
+        "selectToContinue": "Devam etmek için bir kutucuk seçin"
+      },
+      "services": {
+        "customSoftware": "Özel Yazılım Geliştirme",
+        "scalableBackend": "Ölçeklenebilir Backend Mimarileri",
+        "apiIntegrations": "API Geliştirme ve Sistem Entegrasyonları",
+        "databaseOptimization": "Veritabanı ve Performans Optimizasyonu",
+        "erpInventorySystems": "ERP / Envanter Yönetim Sistemleri",
+        "marketplacePlatforms": "Pazaryeri ve Veri Entegrasyon Platformları",
+        "workflowAutomation": "İş Akışı Otomasyon Sistemleri",
+        "enterpriseTechConsulting": "Kurumsal Teknoloji Danışmanlığı",
+        "digitalTransformationConsulting": "Dijital Dönüşüm Danışmanlığı",
+        "other": "Diğer"
+      },
+      "budget": {
+        "label": "Tahmini Bütçe",
+        "placeholder": "Bütçe aralığı seçin",
+        "options": {
+          "small": "€10.000 altı",
+          "medium": "€10.000 – €50.000",
+          "large": "€50.000 – €150.000",
+          "enterprise": "€150.000+"
+        }
+      },
+      "timeline": {
+        "label": "İstenen Zaman Çizelgesi",
+        "placeholder": "Zaman çizelgesi seçin",
+        "options": {
+          "urgent": "Acil (< 1 ay)",
+          "short": "1–3 ay",
+          "medium": "3–6 ay",
+          "long": "6+ ay"
+        }
+      },
+      "fields": {
+        "name": "Ad Soyad",
+        "email": "E-posta Adresi",
+        "company": "Şirket (isteğe bağlı)",
+        "message": "Ek Detaylar"
+      },
+      "buttons": {
+        "next": "Devam Et",
+        "back": "Geri",
+        "submit": "Mesaj Gönder",
+        "edit": "Düzenle"
+      },
+      "success": {
+        "title": "Mesaj Gönderildi!",
+        "description": "Bizimle iletişime geçtiğiniz için teşekkürler. 24 saat içinde size dönüş yapacağız."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Web sitesi, uygulama ve entegrasyonlar — özenle inşa edilir.",
+    "rights": "Tüm hakları saklıdır.",
+    "contact": {
+      "badge": "İletişim",
+      "title": "Bize Ulaşın",
+      "subtitle": "Projenizi konuşmak için e-posta gönderin veya formu doldurun — size en kısa sürede dönüş yapalım.",
+      "emailLabel": "E-posta",
+      "locationLabel": "Konum",
+      "location": "İstanbul, Türkiye",
+      "hoursLabel": "Çalışma saatleri",
+      "hours": "Hafta içi 09:00 – 18:00",
+      "cta": "Proje Başlat"
+    },
+    "links": {
+      "privacy": "Gizlilik Politikası",
+      "terms": "Kullanım Koşulları"
+    }
+  },
+  "notFound": {
+    "label": "404",
+    "title": "Sayfa bulunamadı",
+    "description": "Aradığınız sayfa mevcut değil veya taşınmış olabilir.",
+    "cta": "Ana sayfaya dön"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Gizlilik Politikası",
+      "metaDescription": "AGM Core Tech web sitesi ve iletişim formları aracılığıyla toplanan kişisel verilerin nasıl işlendiğini öğrenin.",
+      "updated": "Son güncelleme: Haziran 2026",
+      "intro": "Bu Gizlilik Politikası, web sitemizi ziyaret ettiğinizde veya hizmetlerimiz hakkında bizimle iletişime geçtiğinizde AGM Core Tech’in (“biz”) bilgileri nasıl ele aldığını açıklar.",
+      "sections": {
+        "data": {
+          "title": "Topladığımız bilgiler",
+          "body": "İletişim formları aracılığıyla gönüllü olarak paylaştığınız ad, e-posta, şirket adı, proje detayları, bütçe aralığı ve zaman planı gibi bilgileri toplayabiliriz. Ayrıca tarayıcı türü, cihaz bilgisi ve sunucu günlüklerinden elde edilen anonim kullanım verileri işlenebilir."
+        },
+        "use": {
+          "title": "Bilgileri nasıl kullanıyoruz",
+          "body": "Gönderilen bilgileri taleplere yanıt vermek, teklif hazırlamak, sözleşmeli hizmetleri sunmak ve web sitesi deneyimini geliştirmek için kullanırız. Kişisel verileri üçüncü taraflara satmayız."
+        },
+        "rights": {
+          "title": "Haklarınız",
+          "body": "Bulunduğunuz yargı alanına bağlı olarak kişisel verilerinize erişim, düzeltme, silme veya işlemeyi kısıtlama talep edebilirsiniz. Bu hakları kullanmak için info@agmcoretech.com adresine yazın."
+        },
+        "contact": {
+          "title": "İletişim",
+          "body": "Gizlilikle ilgili sorularınız için info@agmcoretech.com adresine e-posta gönderebilir veya AGM Core Tech, İstanbul, Türkiye adresine yazabilirsiniz."
+        }
+      }
+    },
+    "terms": {
+      "title": "Kullanım Koşulları",
+      "metaDescription": "AGM Core Tech web sitesinin kullanımına ve yazılım mühendisliği ile danışmanlık hizmetlerine ilişkin koşullar.",
+      "updated": "Son güncelleme: Haziran 2026",
+      "intro": "Bu web sitesine erişerek veya proje talebi göndererek aşağıdaki koşulları kabul etmiş olursunuz.",
+      "sections": {
+        "data": {
+          "title": "Web sitesi kullanımı",
+          "body": "Bu web sitesini yalnızca yasal amaçlarla kullanabilirsiniz. İçerik, marka ve materyaller aksi belirtilmedikçe AGM Core Tech’e aittir; izinsiz kopyalanamaz."
+        },
+        "use": {
+          "title": "Hizmetler ve teklifler",
+          "body": "Sitede gösterilen fiyatlar bilgilendirme amaçlıdır. Nihai kapsam, teslimatlar ve ücretler, çalışma başlamadan önce yazılı bir sözleşmede tanımlanır. Hizmet açıklamalarını ve fiyatları güncelleme hakkımız saklıdır."
+        },
+        "rights": {
+          "title": "Sorumluluk sınırı",
+          "body": "Bu web sitesi “olduğu gibi” sunulur. Yürürlükteki mevzuatın izin verdiği ölçüde, AGM Core Tech web sitesinin kullanımından veya burada yayımlanan genel bilgilere dayanılmasından doğan dolaylı zararlardan sorumlu değildir."
+        },
+        "contact": {
+          "title": "İletişim",
+          "body": "Bu koşullarla ilgili sorularınızı info@agmcoretech.com adresine iletebilirsiniz."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,751 @@
+{
+  "metadata": {
+    "title": "AGM Core Tech — Enterprise Software Engineering",
+    "description": "AGM Core Tech entwickelt skalierbare Softwaresysteme, Geschäftsplattformen und Integrationsinfrastruktur für Unternehmen."
+  },
+  "nav": {
+    "home": "Startseite",
+    "philosophy": "Philosophie",
+    "about": "Über uns",
+    "services": "Leistungen",
+    "references": "Referenzen",
+    "pricing": "Preise",
+    "contact": "Kontakt",
+    "cta": "Projekt starten"
+  },
+  "core": {
+    "navigatorLabel": "Core-Systemebenen",
+    "layers": {
+      "hero": "Ursprung",
+      "philosophy": "Philosophie",
+      "about": "Genesis",
+      "services": "Module",
+      "pricing": "Investition",
+      "contact": "Verbinden"
+    }
+  },
+  "hero": {
+    "badge": "AGM Core Tech",
+    "title": "Für Skalierung entwickelt.",
+    "titleHighlight": "Für Enterprise gebaut.",
+    "subtitle": "Wir architectieren skalierbare Softwaresysteme, Geschäftsplattformen und Integrationsinfrastruktur — keine Marketingdienstleistungen.",
+    "ctaPrimary": "Leistungen ansehen",
+    "ctaSecondary": "Kontakt aufnehmen",
+    "stats": {
+      "clients": "Zufriedene Kunden",
+      "years": "Jahre am Markt"
+    },
+    "gallery": {
+      "label": "Engineering-Showcase",
+      "slides": {
+        "architecture": {
+          "category": "Kern-Engineering",
+          "title": "Skalierbare Backend- & Cloud-Infrastruktur",
+          "alt": "Serverraum mit blau beleuchteten Racks — Enterprise-Infrastruktur"
+        },
+        "integrations": {
+          "category": "Integrationen",
+          "title": "API-Schichten & verbundener Datenstoff",
+          "alt": "Globale Netzwerkvisualisierung — Systemintegrationen und Datenpipelines"
+        },
+        "platforms": {
+          "category": "Plattformen",
+          "title": "Enterprise-Betrieb & Analytics",
+          "alt": "Dunkles Analytics-Dashboard mit Diagrammen und Betriebskennzahlen"
+        },
+        "reference": {
+          "category": "Referenz",
+          "title": "Maison No.1 — Luxus-E-Commerce-Plattform",
+          "alt": "Premium-Einzelhandelsumgebung als geliefertes E-Commerce-Projekt"
+        }
+      }
+    }
+  },
+  "philosophy": {
+    "badge": "Philosophie",
+    "quoteTitle": "So arbeiten wir",
+    "quote": "Wir bauen keine temporären Lösungen — wir entwickeln nachhaltige Architekturen, die sich an das Wachstumstempo Ihres Unternehmens anpassen. Wir erfüllen Ihre Anforderungen mit der richtigen Technologie und liefern eine unterbrechungsfreie, leistungsstarke digitale Infrastruktur.",
+    "founder": {
+      "name": "Atilla Görkem Meriç",
+      "role": "Gründer & Chief Engineer, AGM Core Tech"
+    },
+    "pillars": {
+      "precision": {
+        "code": "CORE-01",
+        "title": "Echte Bedarfsanalyse",
+        "description": "Statt schneller Feature-Fixes setzen wir auf strategische Entwicklung, die Ihr Unternehmen voranbringt. Wir analysieren Ihre Abläufe im Detail und liefern präzise Lösungen für Ihre tatsächlichen Bedürfnisse."
+      },
+      "resilience": {
+        "code": "CORE-02",
+        "title": "Nachhaltige Architektur",
+        "description": "Kein zusammengeflickter Code — wir bauen stabile Infrastruktur, die sich über Jahre an Ihr wachsendes Volumen anpasst. Jede Komponente ist darauf ausgelegt, Ressourcennutzung und Serverkosten zu optimieren."
+      },
+      "evolution": {
+        "code": "CORE-03",
+        "title": "Ununterbrochenes Vertrauen",
+        "description": "Wir liefern jedes System, das wir entwickeln, nach höchsten Sicherheits- und Business-Continuity-Standards. Wir überlassen Ihre Technologie nicht dem Zufall — wir stellen sicher, dass Ihre digitalen Assets rund um die Uhr ohne Unterbrechung laufen."
+      }
+    }
+  },
+  "about": {
+    "badge": "Core Genesis",
+    "title": "Wachstumsreise",
+    "subtitle": "Technologische Expansion — von der Stabilität der ersten Codezeile bis zur flexiblen AGM Core Tech-Infrastruktur, die Ihr Unternehmen in die Zukunft trägt.",
+    "ringLabel": "Ring-Expansion beim Scrollen",
+    "vision": "Unsere Vision ist es, komplexe Infrastrukturprobleme mit roher Engineering-Stärke zu lösen und Unternehmen unterbrechungsfreie Performance, Sicherheit und ein nachhaltiges Fundament für Wachstum in der digitalen Welt zu geben.",
+    "founder": "AGM Core Tech",
+    "stepsHeading": "Technologische Entwicklungsphasen",
+    "steps": {
+      "step1": {
+        "label": "Phase 01",
+        "title": "Discovery & Bedarfsanalyse",
+        "description": "Wir erfassen Ihre aktuellen Abläufe, Engpässe und Wachstumsziele. Statt schneller Fixes definieren wir eine strategische Roadmap, die auf Ihre tatsächlichen Bedürfnisse ausgerichtet ist."
+      },
+      "step2": {
+        "label": "Phase 02",
+        "title": "Architekturdesign",
+        "description": "Wir entwerfen nachhaltige, skalierbare Infrastruktur, die Kosten optimiert. Die Rolle und langfristige Eignung jeder Komponente im System wird klar definiert."
+      },
+      "step3": {
+        "label": "Phase 03",
+        "title": "Entwicklung & Integration",
+        "description": "Wir entwickeln und verbinden Anwendungen, APIs und Drittanbietersysteme mit dem passenden Technologie-Stack. Stabilität und Performance haben von der ersten Codezeile an Priorität."
+      },
+      "step4": {
+        "label": "Phase 04",
+        "title": "Sicherheits- & Performance-Tests",
+        "description": "Wir bringen das System durch Sicherheits-, Last- und Business-Continuity-Prüfungen auf Produktionsniveau. Unterbrechungsfreier Betrieb und hohe Performance-Ziele werden validiert."
+      },
+      "step5": {
+        "label": "Phase 05",
+        "title": "Launch & kontinuierliche Weiterentwicklung",
+        "description": "Nach dem Go-Live passen Monitoring, Optimierung und iterative Entwicklung Ihre digitale Infrastruktur an wachsendes Volumen an und tragen sie in die Zukunft."
+      }
+    }
+  },
+  "services": {
+    "badge": "Leistungen",
+    "title": "Enterprise-Fähigkeiten",
+    "subtitle": "Drei fokussierte Disziplinen — Kernengineering, Geschäftssysteme und Technologieberatung.",
+    "panelBadge": "Ausgewählte Leistung",
+    "panelCta": "Preise ansehen",
+    "items": {
+      "customSoftware": {
+        "title": "Individuelle Softwareentwicklung",
+        "description": "Maßgeschneiderte Anwendungen — Web, Desktop und interne Tools. Vollständige Lieferung von der Architektur bis zum Betrieb."
+      },
+      "scalableBackend": {
+        "title": "Skalierbare Backend-Architekturen",
+        "description": "Hochdurchsatz-Backends mit Microservices, Event-Pipelines und kosteneffizienter Infrastruktur."
+      },
+      "apiIntegrations": {
+        "title": "API-Entwicklung & Systemintegrationen",
+        "description": "Robuste API-Schichten und Integrationsbrücken für ERP, CRM, Marktplätze und Drittsysteme."
+      },
+      "databaseOptimization": {
+        "title": "Datenbank- & Performance-Optimierung",
+        "description": "Performance-Engineering für datenintensive Systeme — Query-Tuning, Indexierung und Observability."
+      },
+      "erpInventorySystems": {
+        "title": "ERP- / Bestandsverwaltungssysteme",
+        "description": "Zentrale Bestands-, Beschaffungs- und Auftragsplattformen mit Echtzeit-Sichtbarkeit."
+      },
+      "marketplacePlatforms": {
+        "title": "Marktplatz- & Datenintegrationsplattformen",
+        "description": "Multi-Channel-Commerce-Infrastruktur mit automatisierter Synchronisation und Order-Routing."
+      },
+      "workflowAutomation": {
+        "title": "Workflow-Automatisierungssysteme",
+        "description": "BPM-Prozessautomatisierung — Geschäftsregeln, Freigaben und operative Dashboards."
+      },
+      "enterpriseTechConsulting": {
+        "title": "Enterprise-Technologieberatung",
+        "description": "Architekturbewertungen, Stack-Evaluation und Engineering-Führung für komplexe Entscheidungen."
+      },
+      "digitalTransformationConsulting": {
+        "title": "Digitale Transformationsberatung",
+        "description": "Transformations-Roadmaps — Legacy-Modernisierung, Plattformstrategie und phasierte Umsetzung."
+      }
+    },
+    "categories": {
+      "coreEngineering": {
+        "label": "Kern-Softwareengineering",
+        "description": "Fundamentale Systeme für Performance, Skalierung und Wartbarkeit."
+      },
+      "businessSystems": {
+        "label": "Geschäftssysteme & Plattformen",
+        "description": "Operative Plattformen, die Daten, Workflows und Prozesse vereinen."
+      },
+      "technologyConsulting": {
+        "label": "Technologieberatung",
+        "description": "Strategische Begleitung für Architekturentscheidungen und Transformation."
+      }
+    }
+  },
+  "references": {
+    "badge": "Referenzen",
+    "title": "Live-Projektpräsentation",
+    "subtitle": "Durchsuchen Sie iframe-freundliche Websites direkt hier — Link kopieren oder in neuem Tab öffnen.",
+    "backHome": "Zur Startseite",
+    "visitSite": "Website öffnen",
+    "copyLink": "Link kopieren",
+    "copied": "Kopiert",
+    "items": {
+      "maisonNo1": {
+        "title": "Maison No.1",
+        "description": "Premium-E-Commerce für eine Luxus-Modemarke — Editorial-Storefront, kollektionsorientierte UX und markenkonforme Oberfläche.",
+        "category": "E-Commerce"
+      }
+    }
+  },
+  "pricing": {
+    "badge": "Investition",
+    "title": "Leistungsbasierte Preise",
+    "subtitle": "Nach Disziplin und Service durchsuchen — monatlicher Retainer oder projektbasiert mit Launch-Preisen.",
+    "launchBadge": "20 % Eröffnungsangebot",
+    "launchNote": "Als neues Studio erhalten Early Partners 20 % Rabatt auf alle Pakete.",
+    "discountLabel": "-20 %",
+    "retainerOnlyNote": "Diese Leistung wird ausschließlich als monatlicher Retainer angeboten — keine projektbasierten Preise.",
+    "toggle": {
+      "subscription": "Monatlicher Retainer",
+      "onetime": "Projektbasiert"
+    },
+    "services": {
+      "customSoftware": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€3.500",
+            "priceOnetime": "€12.000",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Einzelmodul-Web-App oder MVP — schneller Weg von der Idee bis zur Produktion.",
+            "features": [
+              "Bedarfsanalyse und technische Roadmap",
+              "Einzelmodul- / Admin-Panel-Entwicklung",
+              "Responsives UI und zentrale User Flows",
+              "Go-Live-Deployment und 30 Tage Support"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€6.500",
+            "priceOnetime": "€22.000",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Mehrmodulige Webanwendung — End-to-End-Entwicklung und Wartung.",
+            "features": [
+              "Mehrmodulige individuelle Softwarearchitektur",
+              "Admin-Panel, Rollenverwaltung und Reporting",
+              "API-Layer und Drittanbieter-Integrationen",
+              "Wöchentliche Sprints, Code Reviews und CI/CD",
+              "3 Monate Wartung und Optimierung nach Launch"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Individuelles Angebot",
+            "priceOnetime": "Individuelles Angebot",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Web + Desktop, Multi-Team-Delivery und Enterprise-Prozesse.",
+            "features": [
+              "Vollumfängliche Web- und Desktop-Software",
+              "Dediziertes Entwicklungsteam und Projektmanager",
+              "Security Audit und Lasttests",
+              "SLA, Dokumentation und Schulung",
+              "Langfristige Weiterentwicklung und maßgeschneiderte Roadmap"
+            ]
+          }
+        }
+      },
+      "scalableBackend": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€2.800",
+            "priceOnetime": "€9.500",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Solides API- und Infrastruktur-Fundament für Ihr bestehendes System.",
+            "features": [
+              "Review der aktuellen Backend-Architektur",
+              "REST/GraphQL-API-Design und -Entwicklung",
+              "Basis-Caching und Fehlerbehandlung",
+              "Deployment-Guide und Monitoring-Setup"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€5.800",
+            "priceOnetime": "€18.000",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Skalierbare Backend-Architektur für hohen Traffic.",
+            "features": [
+              "Microservices- oder modularer Monolith-Architektur",
+              "Load Balancing, Queues und asynchrone Workflows",
+              "Auto-Scaling-Strategie",
+              "Performance-Profiling und Kostenoptimierung",
+              "Monatliches Architektur-Review und Verbesserungen"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Individuelles Angebot",
+            "priceOnetime": "Individuelles Angebot",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Enterprise-Backend-Transformation für mission-kritische Systeme.",
+            "features": [
+              "Multi-Region und High Availability",
+              "Zero-Downtime-Migrationsplan",
+              "Dediziertes SRE- / Backend-Team",
+              "24/7-Monitoring, SLA und Incident Response",
+              "Enterprise-Sicherheits- und Compliance-Standards"
+            ]
+          }
+        }
+      },
+      "apiIntegrations": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€1.800",
+            "priceOnetime": "€4.500",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Einzelne Marktplatz-Integration — Bestands- und Preissynchronisation.",
+            "features": [
+              "1 Marktplatz-API-Integration (Trendyol oder Amazon)",
+              "Produkt-, Bestands- und Preissynchronisation",
+              "Order-Webhooks und Benachrichtigungsfluss",
+              "Error Logging und Basis-Reporting"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€3.200",
+            "priceOnetime": "€8.500",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Multi-Marktplatz-Brücke mit zentralem Operations-Panel.",
+            "features": [
+              "2–3 gleichzeitige Marktplatz-Integrationen",
+              "Zentrales Bestands- und Preis-Management-Panel",
+              "Automatische Synchronisation und Konfliktlösung",
+              "Order-Routing und Status-Tracking",
+              "Monatliche Integrationswartung und API-Updates"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Individuelles Angebot",
+            "priceOnetime": "Individuelles Angebot",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Globale Marktplätze mit vollständiger ERP/WMS-Integration.",
+            "features": [
+              "Unbegrenzte Marktplätze und individuelle API-Anbindungen",
+              "ERP- / WMS- / Buchhaltungssystem-Integration",
+              "Echtzeit-Datenpipeline und Failover",
+              "Dediziertes Integrationsteam",
+              "Individuelles SLA und Business-Continuity-Plan"
+            ]
+          }
+        }
+      },
+      "databaseOptimization": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€950",
+            "priceOnetime": "€2.800",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Schneller Performance-Boost für verlangsamte Queries.",
+            "features": [
+              "Datenbank-Gesundheitsscan",
+              "Optimierung kritischer Queries (bis zu 5 Queries)",
+              "Index-Empfehlungen und Implementierung",
+              "Vorher-/Nachher-Performance-Report"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€2.200",
+            "priceOnetime": "€6.500",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Vollständiges Datenbank-Audit und Optimierung.",
+            "features": [
+              "Schema- und Index-Architektur-Review",
+              "Query-Plan-Analyse und Batch-Optimierung",
+              "Connection-Pool- und Cache-Strategie",
+              "Backup- und Recovery-Verifizierung",
+              "Monatliches Performance-Monitoring"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Individuelles Angebot",
+            "priceOnetime": "Individuelles Angebot",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Enterprise-Kontinuität und Skalierung für kritische Datenbanken.",
+            "features": [
+              "High-Availability- und Replikationsarchitektur",
+              "Sharding- / Partitionierungsstrategie",
+              "24/7-Performance-Monitoring und Response",
+              "Disaster-Recovery-Plan",
+              "Dedizierte DBA-Beratung"
+            ]
+          }
+        }
+      },
+      "erpInventorySystems": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€2.200",
+            "priceOnetime": "€7.500",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Auftrags- und Bestandsverfolgung über einen einzelnen Kanal.",
+            "features": [
+              "Zentrale Auftragsliste und Status-Tracking",
+              "Basis-Überwachung der Bestandsniveaus",
+              "Niedrigbestands-Alerts",
+              "Excel- / CSV-Export"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€4.500",
+            "priceOnetime": "€14.000",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Multi-Plattform-Auftrags- und Lagerautomatisierung.",
+            "features": [
+              "Multi-Channel-Auftragskonsolidierung",
+              "Echtzeit-Lager- und Bestandssynchronisation",
+              "Automatische Auftragsstatus-Updates",
+              "Operations-Dashboard und KPI-Reports",
+              "Kompatibel mit Marktplatz-Integrationen"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Individuelles Angebot",
+            "priceOnetime": "Individuelles Angebot",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Enterprise-Operations-Hub — vollständiges Automatisierungs-Ökosystem.",
+            "features": [
+              "Multi-Lager-, Multi-Marken-Bestandsmanagement",
+              "Business-Rule-Engine und automatisierte Workflows",
+              "ERP- und Logistikpartner-Integrationen",
+              "Dedizierte Operations-Beratung",
+              "Individuelles Reporting und BI-Integration"
+            ]
+          }
+        }
+      },
+      "marketplacePlatforms": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€1.800",
+            "priceOnetime": "€4.500",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Einzelne Marktplatz-Integration — Bestands- und Preissynchronisation.",
+            "features": [
+              "1 Marktplatz-API-Integration (Trendyol oder Amazon)",
+              "Produkt-, Bestands- und Preissynchronisation",
+              "Order-Webhooks und Benachrichtigungsfluss",
+              "Error Logging und Basis-Reporting"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€3.200",
+            "priceOnetime": "€8.500",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Multi-Marktplatz-Brücke mit zentralem Operations-Panel.",
+            "features": [
+              "2–3 gleichzeitige Marktplatz-Integrationen",
+              "Zentrales Bestands- und Preis-Management-Panel",
+              "Automatische Synchronisation und Konfliktlösung",
+              "Order-Routing und Status-Tracking",
+              "Monatliche Integrationswartung und API-Updates"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Individuelles Angebot",
+            "priceOnetime": "Individuelles Angebot",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Globale Marktplätze mit vollständiger ERP/WMS-Integration.",
+            "features": [
+              "Unbegrenzte Marktplätze und individuelle API-Anbindungen",
+              "ERP- / WMS- / Buchhaltungssystem-Integration",
+              "Echtzeit-Datenpipeline und Failover",
+              "Dediziertes Integrationsteam",
+              "Individuelles SLA und Business-Continuity-Plan"
+            ]
+          }
+        }
+      },
+      "workflowAutomation": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€2.200",
+            "priceOnetime": "€7.500",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Auftrags- und Bestandsverfolgung über einen einzelnen Kanal.",
+            "features": [
+              "Zentrale Auftragsliste und Status-Tracking",
+              "Basis-Überwachung der Bestandsniveaus",
+              "Niedrigbestands-Alerts",
+              "Excel- / CSV-Export"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€4.500",
+            "priceOnetime": "€14.000",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Multi-Plattform-Auftrags- und Lagerautomatisierung.",
+            "features": [
+              "Multi-Channel-Auftragskonsolidierung",
+              "Echtzeit-Lager- und Bestandssynchronisation",
+              "Automatische Auftragsstatus-Updates",
+              "Operations-Dashboard und KPI-Reports",
+              "Kompatibel mit Marktplatz-Integrationen"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Individuelles Angebot",
+            "priceOnetime": "Individuelles Angebot",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "Enterprise-Operations-Hub — vollständiges Automatisierungs-Ökosystem.",
+            "features": [
+              "Multi-Lager-, Multi-Marken-Bestandsmanagement",
+              "Business-Rule-Engine und automatisierte Workflows",
+              "ERP- und Logistikpartner-Integrationen",
+              "Dedizierte Operations-Beratung",
+              "Individuelles Reporting und BI-Integration"
+            ]
+          }
+        }
+      },
+      "enterpriseTechConsulting": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€1.500",
+            "priceOnetime": "€3.500",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Einmaliges Technologie-Audit mit priorisiertem Aktionsplan.",
+            "features": [
+              "Allgemeines Infrastruktur- und Codebase-Audit",
+              "Engpass- und Risikoanalyse-Report",
+              "Technologie-Stack-Bewertung",
+              "90-Tage-Aktionsplan"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€3.000",
+            "priceOnetime": "€7.500",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Monatliche Beratung — Roadmap für digitale Transformation.",
+            "features": [
+              "Monatliche Strategie-Session (2 Stunden)",
+              "Architektur-Entscheidungsunterstützung und Dokumentation",
+              "Beratung bei Vendor- / Technologieauswahl",
+              "Empfehlungen zur Teamstruktur",
+              "Quartalsbericht zum Fortschritt"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Individuelles Angebot",
+            "priceOnetime": "Individuelles Angebot",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "CTO-Level kontinuierliche Technologieführung.",
+            "features": [
+              "Dedizierter Technologieberater",
+              "Vor-Ort-Workshops und Team-Schulungen",
+              "Management von Enterprise-Transformationsprogrammen",
+              "Board- / Executive-Präsentationen",
+              "Langfristige Innovations-Roadmap"
+            ]
+          }
+        }
+      },
+      "digitalTransformationConsulting": {
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "priceSubscription": "€1.500",
+            "priceOnetime": "€3.500",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Einmaliges Technologie-Audit mit priorisiertem Aktionsplan.",
+            "features": [
+              "Allgemeines Infrastruktur- und Codebase-Audit",
+              "Engpass- und Risikoanalyse-Report",
+              "Technologie-Stack-Bewertung",
+              "90-Tage-Aktionsplan"
+            ]
+          },
+          "professional": {
+            "name": "Professional",
+            "priceSubscription": "€3.000",
+            "priceOnetime": "€7.500",
+            "periodSubscription": "/Monat",
+            "periodOnetime": " pauschal",
+            "description": "Monatliche Beratung — Roadmap für digitale Transformation.",
+            "features": [
+              "Monatliche Strategie-Session (2 Stunden)",
+              "Architektur-Entscheidungsunterstützung und Dokumentation",
+              "Beratung bei Vendor- / Technologieauswahl",
+              "Empfehlungen zur Teamstruktur",
+              "Quartalsbericht zum Fortschritt"
+            ]
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "priceSubscription": "Individuelles Angebot",
+            "priceOnetime": "Individuelles Angebot",
+            "periodSubscription": "",
+            "periodOnetime": "",
+            "description": "CTO-Level kontinuierliche Technologieführung.",
+            "features": [
+              "Dedizierter Technologieberater",
+              "Vor-Ort-Workshops und Team-Schulungen",
+              "Management von Enterprise-Transformationsprogrammen",
+              "Board- / Executive-Präsentationen",
+              "Langfristige Innovations-Roadmap"
+            ]
+          }
+        }
+      }
+    },
+    "cta": "Plan wählen",
+    "contact": "Individuelles Angebot anfragen",
+    "popular": "Am beliebtesten"
+  },
+  "contact": {
+    "badge": "Loslegen",
+    "title": "Projekt starten",
+    "subtitle": "Erzählen Sie uns von Ihren Anforderungen — wir entwickeln die passende Engineering-Lösung.",
+    "wizard": {
+      "step1": {
+        "title": "Was benötigen Sie?",
+        "subtitle": "Wählen Sie eine Leistung — ein Tipp auf eine Karte führt Sie zum nächsten Schritt."
+      },
+      "step2": {
+        "title": "Wie hoch ist Ihr geschätztes Budget?",
+        "subtitle": "Wählen Sie eine Budgetspanne — ein Tipp auf eine Karte führt Sie zum nächsten Schritt."
+      },
+      "step3": {
+        "title": "Wann möchten Sie starten?",
+        "subtitle": "Wählen Sie Ihren bevorzugten Zeitrahmen."
+      },
+      "step4": {
+        "title": "Ihre Angaben",
+        "subtitle": "Wie können wir Sie erreichen?"
+      },
+      "step5": {
+        "title": "Prüfen & Senden",
+        "subtitle": "Überprüfen Sie Ihre Auswahl und senden Sie Ihre Nachricht."
+      },
+      "review": {
+        "service": "Leistung"
+      },
+      "hint": {
+        "selectToContinue": "Wählen Sie eine Karte, um fortzufahren"
+      },
+      "services": {
+        "customSoftware": "Individuelle Softwareentwicklung",
+        "scalableBackend": "Skalierbare Backend-Architekturen",
+        "apiIntegrations": "API-Entwicklung & Systemintegrationen",
+        "databaseOptimization": "Datenbank- & Performance-Optimierung",
+        "erpInventorySystems": "ERP- / Bestandsverwaltungssysteme",
+        "marketplacePlatforms": "Marktplatz- & Datenintegrationsplattformen",
+        "workflowAutomation": "Workflow-Automatisierungssysteme",
+        "enterpriseTechConsulting": "Enterprise-Technologieberatung",
+        "digitalTransformationConsulting": "Digitale Transformationsberatung",
+        "other": "Sonstiges"
+      },
+      "budget": {
+        "label": "Geschätztes Budget",
+        "placeholder": "Budgetspanne wählen",
+        "options": {
+          "small": "Unter €10.000",
+          "medium": "€10.000 – €50.000",
+          "large": "€50.000 – €150.000",
+          "enterprise": "€150.000+"
+        }
+      },
+      "timeline": {
+        "label": "Gewünschter Zeitrahmen",
+        "placeholder": "Zeitrahmen wählen",
+        "options": {
+          "urgent": "So schnell wie möglich (< 1 Monat)",
+          "short": "1–3 Monate",
+          "medium": "3–6 Monate",
+          "long": "6+ Monate"
+        }
+      },
+      "fields": {
+        "name": "Vollständiger Name",
+        "email": "E-Mail-Adresse",
+        "company": "Unternehmen (optional)",
+        "message": "Zusätzliche Details"
+      },
+      "buttons": {
+        "next": "Weiter",
+        "back": "Zurück",
+        "submit": "Nachricht senden",
+        "edit": "Bearbeiten"
+      },
+      "success": {
+        "title": "Nachricht gesendet!",
+        "description": "Vielen Dank für Ihre Anfrage. Wir melden uns innerhalb von 24 Stunden bei Ihnen."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Websites, Apps und Integrationen — mit Sorgfalt entwickelt.",
+    "rights": "Alle Rechte vorbehalten.",
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Kontakt aufnehmen",
+      "subtitle": "Schreiben Sie uns eine E-Mail oder füllen Sie das Formular aus — wir melden uns so schnell wie möglich bei Ihnen.",
+      "emailLabel": "E-Mail",
+      "locationLabel": "Standort",
+      "location": "Istanbul, Türkei",
+      "hoursLabel": "Geschäftszeiten",
+      "hours": "Mo–Fr 09:00 – 18:00",
+      "cta": "Projekt starten"
+    },
+    "links": {
+      "privacy": "Datenschutzerklärung",
+      "terms": "Nutzungsbedingungen"
+    }
+  }
+}
